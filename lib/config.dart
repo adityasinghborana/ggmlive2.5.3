@@ -2,28 +2,27 @@ import 'package:flutter/material.dart';
 
 class Config {
   // copy your api url from php admin dashboard & paste below
-  static final String baseUrl             = "https://meetair.spagreen.net/demo/app/v100/";
+  static final String baseUrl = "https://ggmlive.com/";
   //copy your api key from php admin dashboard & paste below
-  static final String apiKey              = "hn141zghgkskv1gi0br1lr9z";
+  static final String apiKey = "e0zh60ofcjdoqra16355rjbm";
   //
-  static final String oneSignalAppID      = "xxxxxxxxxxxxxxxxxxxxx-xxxxxx";
+  static final String oneSignalAppID = "d10b0b8d-3f8c-4d06-89c7-326c446f4f97";
 
-  static final bool enableFacebookAuth    = false;
-  static final bool enableGoogleAuth      = true;
-  static final bool enablePhoneAuth       = true;
+  static final bool enableFacebookAuth = false;
+  static final bool enableGoogleAuth = true;
+  static final bool enablePhoneAuth = true;
   static final bool enableAppleAuthForIOS = true;
-  static final String defaultLanguage     = "en";
-
-
+  static final String defaultLanguage = "en";
 
   //supported language list
   static var supportedLanguageList = [
     Locale("en", "US"),
     Locale("ar", "SA"),
     Locale("bn", "BD")
-  ];//supported language list
+  ]; //supported language list
 
 }
+
 /// the welcome screen data
 List introContent = [
   {
