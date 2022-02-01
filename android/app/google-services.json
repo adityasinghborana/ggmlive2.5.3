@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "492754168994",
+    "project_id": "meetairspa",
+    "storage_bucket": "meetairspa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492754168994:android:3ac926d5f0f1e1a006fbfb",
+        "android_client_info": {
+          "package_name": "com.spagreen.meetair"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492754168994-4vae809ttqgb225kh96bj5jb0vpkojs7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spagreen.meetair",
+            "certificate_hash": "b8978633d8ec0875fd84dae524e641bb6c299709"
+          }
+        },
+        {
+          "client_id": "492754168994-2lc37vm1lupube6lf6daetdql5c6pbe4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvtqU9Uqi-bzPkCnW80oJMIBCen6dKLNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492754168994-2lc37vm1lupube6lf6daetdql5c6pbe4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">MeetAir</string>
+    <string name="facebook_app_id">1382239dd29</string>
+    <string name="fb_login_protocol_scheme">fb13821923929</string>
+</resources>
